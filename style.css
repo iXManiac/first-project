@@ -1,2 +1,9 @@
 /* Some fuking styles */
 /* add fuking styles */
+.header
+{
+   text-align: center;
+}
+.content{
+    color: red;
+}
